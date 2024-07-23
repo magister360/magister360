@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hola, Soy Pablo 👋
 
+Desarrollador full-stack
 <!--
 **magister360/magister360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
