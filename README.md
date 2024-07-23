@@ -25,6 +25,9 @@ Desarrollador full-stack
 
   ![TypeScript](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
 
+- **ORM**:
+ 
+  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 <br>
 
 
